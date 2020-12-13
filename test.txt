@@ -1,0 +1,2 @@
+普通字符串
+file.PrintStreamTest@34ce8af7
