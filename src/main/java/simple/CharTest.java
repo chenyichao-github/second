@@ -6,11 +6,11 @@ public class CharTest {
         char enterChar = '\r';
         char ch = '\u9999';
         System.out.println(ch);
-        char zhong = 'ç–¯';
+        char zhong = '·è';
         int zhongValue = zhong;
         System.out.println(zhongValue);
         char c = 30127;
         System.out.println(c);
-        String s = "æ²§æµ·æœˆæ˜ç æœ‰æ³ªï¼Œè“ç”°æ—¥æš–ç‰ç”ŸçƒŸã€‚";
+        String s = "²×º£ÔÂÃ÷ÖéÓĞÀá£¬À¶ÌïÈÕÅ¯ÓñÉúÑÌ¡£";
     }
 }
