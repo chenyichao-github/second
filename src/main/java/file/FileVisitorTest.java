@@ -15,7 +15,7 @@ public class FileVisitorTest {
             public FileVisitResult visitFile(Path file, BasicFileAttributes attrs) throws IOException {
                 System.out.println("正在访问" + file + "文件");
                 if (file.endsWith("FileVisitorTest.java")) {
-                    System.out.println("--已经找到目标文件--\n");
+                    System.out.println("--已经找到目标文件--");
                     return FileVisitResult.TERMINATE;
                 }
                 return FileVisitResult.CONTINUE;
@@ -23,7 +23,7 @@ public class FileVisitorTest {
 
             @Override
             public FileVisitResult preVisitDirectory(Path dir, BasicFileAttributes attrs) throws IOException {
-                System.out.println("正在访问：" + dir + "路径");
+                System.out.println("正在访问" + dir + "目录");
                 return FileVisitResult.CONTINUE;
             }
         });
