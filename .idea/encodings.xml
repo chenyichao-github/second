@@ -10,6 +10,9 @@
     <file url="file://$PROJECT_DIR$/src/main/java/annotation/ActionListenerInstaller.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/annotation/AnnotationTest.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/annotation/DeprecatedTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/annotation/FkTag.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/annotation/FkTagTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/annotation/FkTags.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/annotation/MyTest.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/annotation/ProcessorTest.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/annotation/RunTests.java" charset="GBK" />
