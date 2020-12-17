@@ -13,7 +13,20 @@
     <file url="file://$PROJECT_DIR$/src/main/java/annotation/ProcessorTest.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/annotation/RunTests.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/awt/BorderLayoutTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/awt/BorderLayoutTest2.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/awt/BoxLayoutTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/awt/BoxSpaceTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/awt/BoxTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/awt/CardLayoutTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/awt/CommonComponent.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/awt/DialogTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/awt/EventQs.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/awt/FileDialogTest.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/awt/FlowLayoutTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/awt/GridBagTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/awt/GridLayoutTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/awt/MultiListener.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/awt/NullLayoutTest.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/collection/CollectionTest.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/file/AttributeViewTest.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/file/CharsetTransform.java" charset="GBK" />
