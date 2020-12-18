@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$USER_HOME$/Desktop/疯狂Java讲义/codes/11/11.8/Gobang.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/object.txt" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/poem.txt" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/annotation/ActionListenerInstaller.java" charset="GBK" />
@@ -12,6 +13,7 @@
     <file url="file://$PROJECT_DIR$/src/main/java/annotation/MyTest.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/annotation/ProcessorTest.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/annotation/RunTests.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/awt/AnonymousEventHandler.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/awt/BorderLayoutTest.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/awt/BorderLayoutTest2.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/awt/BoxLayoutTest.java" charset="GBK" />
@@ -23,10 +25,23 @@
     <file url="file://$PROJECT_DIR$/src/main/java/awt/EventQs.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/awt/FileDialogTest.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/awt/FlowLayoutTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/awt/Gobang.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/awt/GridBagTest.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/awt/GridLayoutTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/awt/HandDraw.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/awt/ImageIOTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/awt/MailerListener.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/awt/MultiListener.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/awt/NullLayoutTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/awt/PinBall.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/awt/PopupMenuTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/awt/SendMailer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/awt/SimpleDraw.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/awt/SimpleEventHandler.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/awt/SimpleMenu.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/awt/WindowAdapterTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/awt/WindowListenerTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/awt/ZoomImage.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/collection/CollectionTest.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/file/AttributeViewTest.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/file/CharsetTransform.java" charset="GBK" />
