@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$USER_HOME$/Desktop/疯狂Java讲义/codes/11/11.10/DropTargetTest.java" charset="GBK" />
     <file url="file://$USER_HOME$/Desktop/疯狂Java讲义/codes/11/11.8/Gobang.java" charset="GBK" />
     <file url="file://$USER_HOME$/Desktop/疯狂Java讲义/codes/11/11.9/CopyImage.java" charset="GBK" />
     <file url="file://$USER_HOME$/Desktop/疯狂Java讲义/codes/11/11.9/CopyPerson.java" charset="GBK" />
@@ -28,6 +29,8 @@
     <file url="file://$PROJECT_DIR$/src/main/java/awt/CopyPerson.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/awt/CopySerializable.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/awt/DialogTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/awt/DragSourceTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/awt/DropTargetTest.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/awt/EventQs.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/awt/FileDialogTest.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/awt/FlowLayoutTest.java" charset="GBK" />
