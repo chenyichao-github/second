@@ -1,4 +1,4 @@
-package network;
+package network.senior;
 
 import java.util.Collections;
 import java.util.HashMap;
@@ -36,7 +36,7 @@ public class CrazyitMap<K, V> {
     public synchronized V put(K key, V value) {
         for (var val : valueSet()) {
             if (val.equals(value) && val.hashCode() == value.hashCode()) {
-                throw new RuntimeException("CrazyitMap瀹炰緥涓笉鍏佽鏈夐噸澶峷alue!");
+                throw new RuntimeException("CrazyitMap实例中不允许有重复value!");
             }
         }
         return map.put(key, value);

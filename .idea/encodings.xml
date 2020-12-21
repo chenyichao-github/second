@@ -6,6 +6,7 @@
     <file url="file://$USER_HOME$/Desktop/疯狂Java讲义/codes/11/11.9/CopyImage.java" charset="GBK" />
     <file url="file://$USER_HOME$/Desktop/疯狂Java讲义/codes/11/11.9/CopyPerson.java" charset="GBK" />
     <file url="file://$USER_HOME$/Desktop/疯狂Java讲义/codes/11/11.9/CopySerializable.java" charset="GBK" />
+    <file url="file://$USER_HOME$/Desktop/疯狂Java讲义/codes/17/17.3/HalfClose/Client.java" charset="GBK" />
     <file url="file://$USER_HOME$/Desktop/疯狂Java讲义/codes/17/17.3/Senior/server/CrazyitProtocol.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/object.txt" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/poem.txt" charset="GBK" />
@@ -62,7 +63,19 @@
     <file url="file://$PROJECT_DIR$/src/main/java/network/ClientThread.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/network/MyClient.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/network/MyServer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/network/NoBlock/NClient.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/network/NoBlock/NServer.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/network/ServerThread.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/network/UdpClient.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/network/UdpServer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/network/halfclose/Client.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/network/halfclose/Server.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/network/senior/Client.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/network/senior/ClientThread.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/network/senior/CrazyitMap.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/network/senior/CrazyitProtocol.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/network/senior/Server.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/network/senior/ServerThread.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/reflection/ClassLoaderPropTest.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/reflection/ClassLoaderTest.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/reflection/CompileConstantTest.java" charset="GBK" />
