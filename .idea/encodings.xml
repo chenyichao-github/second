@@ -12,6 +12,7 @@
     <file url="file://$USER_HOME$/Desktop/疯狂Java讲义/codes/17/17.4/LanTalk/LanTalk.java" charset="GBK" />
     <file url="file://$USER_HOME$/Desktop/疯狂Java讲义/codes/17/17.4/LanTalk/LoginFrame.java" charset="GBK" />
     <file url="file://$USER_HOME$/Desktop/疯狂Java讲义/codes/17/17.4/LanTalk/YeekuProtocol.java" charset="GBK" />
+    <file url="file://$USER_HOME$/Desktop/疯狂Java讲义/codes/17/17.5/ProxySelectorTest.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/object.txt" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/poem.txt" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/annotation/ActionListenerInstaller.java" charset="GBK" />
@@ -77,6 +78,8 @@
     <file url="file://$PROJECT_DIR$/src/main/java/network/MyServer.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/network/NoBlock/NClient.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/network/NoBlock/NServer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/network/ProxySelectorTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/network/ProxyTest.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/network/ServerThread.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/network/UdpClient.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/network/UdpServer.java" charset="GBK" />
