@@ -8,6 +8,10 @@
     <file url="file://$USER_HOME$/Desktop/疯狂Java讲义/codes/11/11.9/CopySerializable.java" charset="GBK" />
     <file url="file://$USER_HOME$/Desktop/疯狂Java讲义/codes/17/17.3/HalfClose/Client.java" charset="GBK" />
     <file url="file://$USER_HOME$/Desktop/疯狂Java讲义/codes/17/17.3/Senior/server/CrazyitProtocol.java" charset="GBK" />
+    <file url="file://$USER_HOME$/Desktop/疯狂Java讲义/codes/17/17.4/LanTalk/ChatFrame.java" charset="GBK" />
+    <file url="file://$USER_HOME$/Desktop/疯狂Java讲义/codes/17/17.4/LanTalk/LanTalk.java" charset="GBK" />
+    <file url="file://$USER_HOME$/Desktop/疯狂Java讲义/codes/17/17.4/LanTalk/LoginFrame.java" charset="GBK" />
+    <file url="file://$USER_HOME$/Desktop/疯狂Java讲义/codes/17/17.4/LanTalk/YeekuProtocol.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/object.txt" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/poem.txt" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/annotation/ActionListenerInstaller.java" charset="GBK" />
@@ -61,6 +65,14 @@
     <file url="file://$PROJECT_DIR$/src/main/java/file/FilesTest.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/file/WatchServiceTest.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/network/ClientThread.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/network/LanTalk/ChatFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/network/LanTalk/ComUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/network/LanTalk/LanTalk.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/network/LanTalk/LoginFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/network/LanTalk/UserInfo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/network/LanTalk/YeekuProtocol.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/network/MulticastSocketTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/network/MulticastSocketTest.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/network/MyClient.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/network/MyServer.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/network/NoBlock/NClient.java" charset="GBK" />
