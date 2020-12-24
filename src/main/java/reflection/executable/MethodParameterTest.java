@@ -13,15 +13,15 @@ public class MethodParameterTest {
     public static void main(String[] args) throws Exception {
         Class<Test> clazz = Test.class;
         Method replace = clazz.getMethod("replace", String.class, List.class);
-        System.out.println("replaceæ–¹æ³•å‚æ•°ä¸ªæ•°ï¼š" + replace.getParameterCount());
+        System.out.println("replace·½·¨²ÎÊı¸öÊı£º" + replace.getParameterCount());
         Parameter[] parameters = replace.getParameters();
         var index = 1;
         for (var p : parameters) {
             if (p.isNamePresent()) {
-                System.out.println("---ç¬¬" + index++ + "ä¸ªå‚æ•°ä¿¡æ¯---");
-                System.out.println("å‚æ•°åï¼š" + p.getName());
-                System.out.println("å½¢å‚ç±»å‹ï¼š" + p.getType());
-                System.out.println("æ³›å‹ç±»å‹" + p.getParameterizedType());
+                System.out.println("---µÚ" + index++ + "¸ö²ÎÊıĞÅÏ¢---");
+                System.out.println("²ÎÊıÃû£º" + p.getName());
+                System.out.println("ĞÎ²ÎÀàĞÍ£º" + p.getType());
+                System.out.println("·ºĞÍÀàĞÍ" + p.getParameterizedType());
             }
         }
     }

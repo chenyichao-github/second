@@ -97,11 +97,25 @@
     <file url="file://$PROJECT_DIR$/src/main/java/network/senior/CrazyitProtocol.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/network/senior/Server.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/network/senior/ServerThread.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/reflection/ArrayTest1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/reflection/ArrayTest2.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/reflection/ClassLoaderPropTest.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/reflection/ClassLoaderTest.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/reflection/ClassTest.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/reflection/CompileConstantTest.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/main/java/reflection/executable/MethodParameterTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/reflection/CrazyitArray.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/reflection/CreateJFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/reflection/DynaProxy/Dog.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/reflection/DynaProxy/DogUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/reflection/DynaProxy/GunDog.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/reflection/DynaProxy/MyInvocationHandler.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/reflection/DynaProxy/MyProxyFactory.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/reflection/DynaProxy/Test.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/reflection/ExtendedObjectPoolFactory.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/reflection/FieldTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/reflection/NestTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/reflection/executable/MethodParameterTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/reflection/proxy/ProxyTest.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/simple/CharTest.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/swing/AllLookAndFeel.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/swing/BindKeyTest.java" charset="GBK" />
